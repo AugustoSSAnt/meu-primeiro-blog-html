@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>Pagina principal</title>
+    </head>
+    <body>
+        <h1>HTML sem segredo</h1>
+        <hr>
+        <h2>indice</h2>
+        <ul>
+            <li><a href="#surgimento">Surgimento da internet</a></li>
+            <li><a href="#html">Como funciona o HTML</a></li>
+            <li><a href="#tags">O que são tags</a></li>
+        </ul>
+
+        <h2 id="Surgimento">Surgimento da internet</h2>
+        <p>A <strong>internet</strong> como já vimos surgiu em 1989 e tem sua criação atribuída a <strong>Tim Berners-lee</strong>.
+        ele inventou a <mark>World Wide Web (WWW)</mark>, um sistema que, em pouco tempo, permitiria a criação
+        da Internet comercial e, assim, a popularização da rede.A Internet é uma rede de comunicação
+        de milhões de computadores conectados, que oferece inúmeros serviços.Nesse ponto, destacam-se 
+        as seguintes características da Internet: Primeiro: Multimídia possibilidade do uso de várias 
+        mídias (imagem, som); Segundo: Interatividade característica que permite a interação de pessoas 
+        em tempo real, ainda estejam em lugares diferentes; Terceiro: Hipertextualidade com acentuada 
+        presença de hiperlinks, assim ocorreu a criação do HTML.</p>
+
+        <blockquote><i>“Sempre teremos Ciência, Tecnologia, Engenharia e Matemática conosco. Algumas coisas 
+            sairão dos olhos do público e irão embora, mas sempre haverá ciência, engenharia e tecnologia. 
+            E sempre, sempre haverá matemática.”
+            Katherine Johnson</i></blockquote>
+
+        <h2 id="html">Como funciona o HTML</h2>
+        <p>O <b>HTML</b> é uma linguagem de marcação com a qual os elementos de uma página são identificados
+        e definidos, geralmente, por um par de marcadores conhecidos como tags. Esses elementos podem 
+        ser desde textos e suas formatações, como parágrafos, sublinhados e links, até conteúdos multimídia, 
+        como imagens e vídeos.A função do <b>HTML</b> <u>(Hypertext Markup Language)</u> na programação web sofreu alterações 
+        ao longo dos anos e hoje essa linguagem deve ser utilizada unicamente para estruturar o conteúdo das 
+        páginas. Ou seja, não cabe a ela definir características visuais ou comportamentos, pois isso deve ser 
+        feito usando CSS e JavaScript.</p>
+
+        <h2 id="tags">O que são tags</h2>
+        <p>A tag <b>HTML</b> de conteúdo é uma marca que define o conteúdo de um documento da respectiva linguagem. 
+            Ela envolve o texto e os elementos que aparecem no documento. Tecnicamente, elas são usadas para 
+            determinar o tipo de conteúdo que será exibido na página.Basta colocar a tag no cabeçalho da sua 
+            página <b>HTML</b> e escrever o seu código dentro dela. Geralmente, elas são usadas para adicionar CSS e 
+            JavaScript a um documento <b>HTML</b>. O CSS é usado para estilizar o conteúdo do documento, enquanto o 
+            JavaScript é executado pelo navegador para adicionar funcionalidades ao documento.</p>
+        
+        <h4>Referencias</h4>
+        <cite>https://www.w3schools.com/</cite>
+        <cite>https://www.dio.me/en</cite>
+        <cite>https://www.youtube.com/watch?v=S7d371WsIt0</cite>
+    </body>
+</html>
